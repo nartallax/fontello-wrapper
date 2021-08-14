@@ -26,7 +26,7 @@ Note: most (all) of globally installed things here (like specific version of Nod
 
 Next step is to tell wrapper what to do on save.  
 This settings are related to the project you build your font for, and stored in JSON file.  
-I won't repeat myself here about exact syntax of the file; go look on it [in type definitions](ts/server/config.ts).  
+I won't repeat myself here about exact syntax of the file; go look on it [in type definitions](ts/config.ts).  
 
 ## Launch
 
