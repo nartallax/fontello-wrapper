@@ -1,0 +1,35 @@
+{
+  "name": "@nartallax/fontello-wrapper",
+  "version": "1.0.3",
+  "description": "A set of scripts to do with Fontello exactly what I want",
+  "main": "fontello-wrapper.js",
+  "bin": {
+    "fontello-wrapper": "fontello-wrapper.js"
+  },
+  "scripts": {
+    "pub": "./scripts/publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nartallax/fontello-wrapper.git"
+  },
+  "author": "Nartallax",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/nartallax/fontello-wrapper/issues"
+  },
+  "homepage": "https://github.com/nartallax/fontello-wrapper#readme",
+  "dependencies": {
+    "open": "^8.2.1",
+    "unzipper": "^0.10.11"
+  },
+  "devDependencies": {
+    "@nartallax/imploder": "^1.1.3",
+    "@types/unzipper": "^0.10.4",
+    "@typescript-eslint/eslint-plugin": "^4.29.1",
+    "@typescript-eslint/parser": "^4.29.1",
+    "eslint": "^7.32.0",
+    "tslib": "^2.3.0",
+    "typescript": "^4.3.5"
+  }
+}
