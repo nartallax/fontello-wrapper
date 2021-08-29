@@ -32,7 +32,3 @@ I won't repeat myself here about exact syntax of the file; go look on it [in typ
 
 If you installed the wrapper globally, as I suggested earlier, you now should be able to just launch `fontello-wrapper ./my_project/my_config.json` in command line.  
 After launch wrapper will open Fontello web interface in your default browser after the Fontello is launched. Don't use default web interface address, as this won't work as expected. "Export font" button will save the font as you configured.  
-
-## Troubleshooting
-
-[Fontello saves changes with delay](https://github.com/fontello/fontello/issues/750). That is, if you added/removed icon, actually changes will take effect in a few seconds. Don't be too hasty clicking that "Export font" button, as it may lose your changes.  

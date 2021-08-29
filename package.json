@@ -1,6 +1,6 @@
 {
   "name": "@nartallax/fontello-wrapper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A set of scripts to do with Fontello exactly what I want",
   "main": "fontello-wrapper.js",
   "bin": {
